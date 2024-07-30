@@ -147,6 +147,7 @@ color:#171717;
 }
 .movie-list-container {
     padding-left: 20px;
+    overflow:hidden;
 }
 .movie-list {
     display: flex;
